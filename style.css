@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+body
+{
+    background-size: 100%;
+    background-image: url("bag.jpg");
+    background-repeat: no-repeat;
+}
+.f{
+    padding-top: 3%;
+    font-size: 400%;
+}
+.c{ 
+    padding-top: 3%;
+    font-size: 120%;
+}
+.o{
+    padding-left: 8%;
+     /* only hybried fruit text for movingleft to right */
+}
+.op{
+    padding-left: 5%;
+    padding-bottom: 1%;}
+.d{
+    padding-left: 5%;
+    padding-bottom: 1%;
+}
+.eb h2{
+    padding-left: 5%;
+    padding-bottom: 1%;
+
+}
+h2.spacing
+{
+    word-spacing: 120%;
+    height: 30%;
+    
+}
+.r{ 
+    /* only hybried fruit text for movingleft to right */
+    padding-left: 70%;
+    padding-bottom: 1%;
+}
+.tt{
+    padding-left: 75%;
+}
+.ttp{
+    padding-left: 70%;
+}
+.e h2{ 
+    padding-left: 71.5%;
+    padding-bottom: 1%;
+    /* ( this is 1% padding-bottom give each other word space) */
+}
+ .t {
+    /* only hybried fruit text for movingleft to right */
+    padding-left: 20%;
+    /* ( this is below 10% padding-bottom move above) */
+    padding-bottom: 1%;
+ }
+ .rr{
+    padding-left: 25%;
+ }
+ .rp{
+    padding-left: 20%;
+ }
+ .p h2{
+    padding-left: 21%;
+    padding-bottom: 1%; 
+    /* ( this is 1% padding-bottom give each other space) */
+ }
+ 
+ .gg{
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+ }
+ .ty{
+    padding-left: 70%;
+ }
+
+ .gr a{
+font-size: 300%;
+ }
